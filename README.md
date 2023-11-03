@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWU2NWQtNjkwNy00M2Q5LWIzNGItNDZhYjg2OWM3YTJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -36,7 +36,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
+- And many more
 
 ## GitHub 
 
@@ -135,7 +135,7 @@ Fact table : It will have the data about the transactions
         - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
         - All the date of the month will be replaced by the start date of the month
         - It will have all the column names and in the end it will have the forecast quantity need of the customer
-    - fact_sales_monthly
+    - FactActualsForecast
         - This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
 - gdb056
     - freight_cost
@@ -158,6 +158,7 @@ Fact table : It will have the data about the transactions
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowfall data modeling method.
+- 
   <img width="770" alt="BI360datamodel" src="https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/53830827-7507-4b80-82f8-4f7913ab650a">
 
 
@@ -181,7 +182,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Home page
 
-
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/f8410fdc-154f-483d-99f6-5a7d6c432e25
 
 ## Finance View
 
@@ -190,11 +191,11 @@ https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/1412
 
 ## Sales View
 
-https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/2903662b-3412-452a-af32-fc7ad533d021
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/3640f574-283d-49e7-9a30-3bcca60a0e85
 
 ## Marketing View
 
-
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/621d943b-64a4-48b7-a3cf-82e424f4634e
 
 ## Supply chain View
 
@@ -207,7 +208,6 @@ https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/1412
 ## InfoPage
 
 https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/bed8ca42-cbc3-4bec-8acd-0a14dce46084
-
 
 
 ## Project Outcome
