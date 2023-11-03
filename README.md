@@ -158,6 +158,7 @@ Fact table : It will have the data about the transactions
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowfall data modeling method.
+  <img width="770" alt="BI360datamodel" src="https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/53830827-7507-4b80-82f8-4f7913ab650a">
 
 
 ### Dashboard designing
@@ -183,7 +184,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/ec3e17b3-4e60-4864-bd67-999451a36930
 
 ## Finance View
 
