@@ -169,47 +169,45 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
-- Info
+- Home Page
 - Finance View
 - Sales View
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
-- Support
+- Info Page
 
-## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
 
-## Info Page
+## Home page
 
-https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/ec3e17b3-4e60-4864-bd67-999451a36930
+
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/2f5c7fb8-70cd-4950-b4c8-14a7f01f2bc9
+
+
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/2903662b-3412-452a-af32-fc7ad533d021
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/2f61ef68-cb57-4c92-ac8f-027abdc4f59c
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/2903662b-3412-452a-af32-fc7ad533d021
 
-## Products
+## InfoPage
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+https://github.com/neerajaChoragudi/AtliQ-Business-Insights-power-bi/assets/141207588/bed8ca42-cbc3-4bec-8acd-0a14dce46084
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
 
 ## Project Outcome
